@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezect
-==============================================================================================================================
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">My name is Rezect
 
 Beginning C++ developer, bike stunter 🚴‍♀️ 🔞
 ----------------------------------------------
@@ -7,7 +6,9 @@ Beginning C++ developer, bike stunter 🚴‍♀️ 🔞
 Now I\`m a 19y.o student in Moscow Aviation University in the field of Applied Mathematics and Computer Science.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [https://t.me/rezect](mailto:https://t.me/rezect)
+* ✉️  You can contact me at <a href="https://t.me/MASysoev">
+  <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" />
+</a>  
 * 🧠  I'm learning multithreading and math
 
 ### Skills
@@ -19,6 +20,9 @@ Now I\`m a 19y.o student in Moscow Aviation University in the field of Applied M
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/pelmen_official" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/rezect" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@rezect_official" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
-<a href="https://github.com/rezect" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezect&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rezect"><img src="https://github-readme-stats.vercel.app/api?username=rezect&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="rezect's GitHub stats" /></a>
