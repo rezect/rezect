@@ -1,5 +1,5 @@
-## Hi there 👋<a href="https://t.me/rezect">
-  <img align="left" target="_blank" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" />
+## Hi there 👋<a href="https://t.me/rezect" target="_blank">
+  <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" />
 </a> 
 <!--
 **rezect/rezect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
