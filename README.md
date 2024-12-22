@@ -1,4 +1,4 @@
-# Hi, I'm rezect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
+# Hi, I'm [rezect](https://jirezectij.ru/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
 
 Aspiring C++ Developer | Bike Stunter 🚴‍♀️ 🔞 | 19 y.o. Student
 ----------------------------------------------
