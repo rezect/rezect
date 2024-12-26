@@ -12,10 +12,10 @@ I’m a 19-year-old student at Moscow Aviation Institute, studying Applied Mathe
 
 ## 🚀 What I'm Working On
 - Developing a Python-based AI model for IT course recommendations
-- Exploring real-time systems and synchronization primitives in C++
+- My portfolio site, studying React
 
 ## 🌱 Goals
-- Contribute to open-source projects on GitHub
+- Solve 100 problems on leetcode
 - Land my first job as a C++ developer to gain industry experience
 
 ## Languages and tools
