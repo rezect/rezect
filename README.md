@@ -1,9 +1,9 @@
 # Hi, I'm [rezect](https://jirezectij.ru/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
 
-Aspiring C++ Developer | Bike Stunter 🚴‍♀️ 🔞 | 19 y.o. Student
+Aspiring Data Analyst | 20 y.o. CS Student
 ----------------------------------------------
 
-I’m a 19-year-old student at Moscow Aviation Institute, studying Applied Mathematics and Computer Science.
+I’m a 20-year-old student at Moscow Aviation Institute, studying Applied Mathematics and Computer Science.
 
 - I love coding and exploring new technologies in the IT sphere.
 - I work out regularly and enjoy sports.
@@ -16,7 +16,7 @@ I’m a 19-year-old student at Moscow Aviation Institute, studying Applied Mathe
 
 ## 🌱 Goals
 - Solve 100 problems on leetcode
-- Land my first job as a C++ developer to gain industry experience
+- Land my first job as a Data Analyst to gain industry experience
 
 ## Languages and tools
 
