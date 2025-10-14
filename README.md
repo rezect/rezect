@@ -1,6 +1,6 @@
 # Hi, I'm [rezect](https://jirezectij.ru/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
 
-Aspiring Data Analyst | 20 y.o. CS Student
+Aspiring Data Scientist | 20 y.o. CS Student
 ----------------------------------------------
 
 I’m a 20-year-old student at Moscow Aviation Institute, studying Applied Mathematics and Computer Science.
@@ -11,12 +11,12 @@ I’m a 20-year-old student at Moscow Aviation Institute, studying Applied Mathe
 - Interested in psychology, sociology and learning languages.
 
 ## 🚀 What I'm Working On
-- Developing a Python-based AI model for IT course recommendations
-- My portfolio site, studying React
+- Developing System to Detect Churns Among Customers
+- Learning and Revising Algorithms
 
 ## 🌱 Goals
 - Solve 100 problems on leetcode
-- Land my first job as a Data Analyst to gain industry experience
+- Land my first job as a Data Scientist to gain industry experience
 
 ## Languages and tools
 
