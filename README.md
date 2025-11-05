@@ -11,12 +11,12 @@ I’m a 20-year-old student at Moscow Aviation Institute, studying Applied Mathe
 - Interested in psychology, sociology and learning languages.
 
 ## 🚀 What I'm Working On
-- Developing System to Detect Churns Among Customers
+- Developing My Own Site with Educational Material
 - Learning and Revising Algorithms
 
 ## 🌱 Goals
 - Solve 100 problems on leetcode
-- Land my first job as a Data Scientist to gain industry experience
+- Land my first job as a Backend-Developer
 
 ## Languages and tools
 
